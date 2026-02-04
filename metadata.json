@@ -1,0 +1,9 @@
+{
+  "name": "St. Paul's Catholic Seminary Portal",
+  "description": "A comprehensive student and administrative portal for St. Paul's Catholic Seminary featuring AI-powered tools for lecture analysis, image processing, voice assistance, and location services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
